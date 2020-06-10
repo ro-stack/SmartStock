@@ -14,5 +14,4 @@ Note: Plotly charts will not show within GitHub.
 #### Technical Analysis
 ![2020-06-03](https://user-images.githubusercontent.com/36137958/83671740-16588480-a5cd-11ea-8f04-5ea327a1b960.png)
 
-#### Machine Learning
-![2020-06-03 (1)](https://user-images.githubusercontent.com/36137958/83672229-d776fe80-a5cd-11ea-831a-c6da0e3a04d4.png)
+
